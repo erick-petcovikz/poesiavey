@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+  /* background-color: black; */
+
+    background-image: url(https://www.infoescola.com/wp-content/uploads/2008/08/universo.jpg);
+    /* background-repeat: no repeat-y; */
+    background-size: 80%;
+    /* background-position: left; */
+    background-attachment: fixed;
+}
+
+main{
+
+   width: 60%;
+    margin: auto ;
+       background-color: rgb(14, 21, 71);
+       padding: top 100px; ;
+       padding: left 50px; ;
+padding-right: 50px;
+padding-bottom: 50px ;
+border: rgb(4, 12, 58) 2px dashed;
+/* solid dotted dashed*/
+border: radius 30px; 
+
+}
+
+p{
+color: #fff8f8da;
+font-family: sans-serif;
+font-size:25px;
+font-weight: 400;
+/* font-style: oblique; */
+/* font-stretch:ultra-expanded; */
+line: height 1.5;
+letter-spacing: 1 px;
+/* word-spacing: 2px; */
+
+text-align: justify;
+text-decoration:none dashed;
+/* text-decoration:capitalize ; */
+text-indent: 150px;
+text-shadow: 0px 0px 0px black;
+
+}
+img{
+height: 400px;
+
+}
+footer{
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin:5% ;
+  margin-left: 37%;
+}
